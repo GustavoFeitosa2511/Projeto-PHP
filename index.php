@@ -8,6 +8,7 @@
         <title> Dr.tec </title>
         <link rel="styleshect" type="text/css" href="style.css" media="screen"/>
     </head>
+    
     <body>
         <header>      
         </header> <main>
@@ -15,4 +16,5 @@
         </footer> </main>
 
     </body>
+    
 </html>
